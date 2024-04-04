@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820846566980",
+    "project_id": "new1-5a89b",
+    "storage_bucket": "new1-5a89b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820846566980:android:a418f18262cebd778e6611",
+        "android_client_info": {
+          "package_name": "com.newmoney.firebase_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAyDAsM0Y6NxUSeONPzC5pgiWhmdRcwzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
