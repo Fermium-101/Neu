@@ -1,4 +1,4 @@
-# firebase_application_1
+# Neu Climate
 
 A new Flutter project.
 
